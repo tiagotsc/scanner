@@ -1,5 +1,5 @@
 <?php
-namespace Oreilly\ModernPHP\Url;
+namespace Tiago\LivroModernPHP\Url;
 
 class Scanner
 {
