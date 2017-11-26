@@ -1,13 +1,13 @@
 {
-    "name": "modernphp/scanner",
+    "name": "tiagolivrophpmoderno/scanner",
     "description": "Scan URLs from a CSV file and report inaccessible URLs",
     "keywords": ["url", "scanner", "csv"],
     "homepage": "http://example.com",
     "license": "MIT",
     "authors": [
         {
-            "name": "Josh Lockhart",
-            "homepage": "https://github.com/codeguy",
+            "name": "Tiago Silva Costa",
+            "homepage": "https://github.com/tiagotsc",
             "role": "Developer"
         }
     ],
