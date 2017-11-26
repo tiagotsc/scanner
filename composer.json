@@ -1,6 +1,7 @@
 {
     "name": "tiagolivrophpmoderno/scanner",
     "description": "Scan URLs from a CSV file and report inaccessible URLs",
+    "type": "package",
     "keywords": ["url", "scanner", "csv"],
     "homepage": "http://example.com",
     "license": "MIT",
